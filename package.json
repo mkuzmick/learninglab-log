@@ -1,0 +1,23 @@
+{
+  "name": "learninglab-log",
+  "version": "1.0.0",
+  "description": "a colorful logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkuzmick/learninglab-log.git"
+  },
+  "keywords": [
+    "log",
+    "colors"
+  ],
+  "author": "mkuzmick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkuzmick/learninglab-log/issues"
+  },
+  "homepage": "https://github.com/mkuzmick/learninglab-log#readme"
+}
